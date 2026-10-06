@@ -22,4 +22,4 @@ jobs:
     - name: Run Python Script
       run: |
           echo hello-world.py
-          python hello_world.py
+          python hello-world.py
